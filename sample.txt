@@ -2,3 +2,7 @@ this is chat application.
 
 Features
 colours
+
+
+Payment added
+send money
